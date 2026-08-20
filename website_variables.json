@@ -1,0 +1,60 @@
+{
+  "date": "September 13",
+  "temp": "77°F",
+  "tempIcon": "🌤️",
+  "forecast": "Forecast: Sun-kissed with morning moodiness.",
+  "weather_note": "test",
+  "slogan": "Soft hearts. Loud laughs.<br>Sapphic September.",
+  "cancelled": false,
+  "cancelTitle": "Picnic Cancelled",
+  "cancelReason": "Please check back for updates.",
+  "sponsors": [
+    {
+      "name": "San Diego Event Production & Technical Services",
+      "url": "https://www.sdeventprodtechservices.com/",
+      "img_url": "https://img1.wsimg.com/isteam/ip/67ccd909-0adc-40f9-828d-1b5df10d3808/Untitled%20design%20(2).png",
+      "copy": "Providing professional sound and technical support for the Big Gay Picnic, and helping us bring live performances to our community."
+    },
+    {
+      "name": "The Polished Pidgeon",
+      "url": "https://www.thepolishedpigeon.com/",
+      "img_url": "https://img1.wsimg.com/isteam/ip/67ccd909-0adc-40f9-828d-1b5df10d3808/polishedpidgeon.jpg",
+      "copy": "Helping the Big Gay Picnic find its flock through generous event support, and making space for queer community, connection, and a little more togetherness."
+    },
+    {
+      "name": "Live Nation",
+      "url": "https://www.livenation.com/",
+      "img_url": "https://img1.wsimg.com/isteam/ip/67ccd909-0adc-40f9-828d-1b5df10d3808/LiveNationLogo_Rainbow.png",
+      "copy": "Providing generous ticket donations for the Big Gay Picnic raffle, and helping our community experience concerts and events throughout San Diego."
+    },
+    {
+      "name": "Raising Cane's",
+      "url": "https://www.raisingcanes.com/",
+      "img_url": "https://img1.wsimg.com/isteam/ip/67ccd909-0adc-40f9-828d-1b5df10d3808/blob-30afd04.png",
+      "copy": "Sharing their ONE LOVE with the Big Gay Picnic through generous annual sponsorship, and helping us keep our community fed, supported, and coming back for more."
+    },
+    {
+      "name": "Kearny Mesa Subaru",
+      "url": "https://www.kearnymesasubaru.com/",
+      "img_url": "https://img1.wsimg.com/isteam/ip/67ccd909-0adc-40f9-828d-1b5df10d3808/Subaru%20%20Logo.png",
+      "copy": "Sharing the love two years running with their generous raffle donation — because love is what makes the Big Gay Picnic, the Big Gay Picnic."
+    }
+  ],
+  "community": [
+    {
+      "img_url": "https://img1.wsimg.com/isteam/ip/67ccd909-0adc-40f9-828d-1b5df10d3808/photo1.jpg"
+    },
+    {
+      "img_url": "https://img1.wsimg.com/isteam/ip/67ccd909-0adc-40f9-828d-1b5df10d3808/photo3.jpg"
+    },
+    {
+      "img_url": "https://img1.wsimg.com/isteam/ip/67ccd909-0adc-40f9-828d-1b5df10d3808/photo4.jpg"
+    },
+    {
+      "img_url": "https://img1.wsimg.com/isteam/ip/67ccd909-0adc-40f9-828d-1b5df10d3808/photo7.jpg"
+    },
+    {
+      "img_url": "https://img1.wsimg.com/isteam/ip/67ccd909-0adc-40f9-828d-1b5df10d3808/photo6.jpg"
+    }
+  ]
+}
