@@ -7,9 +7,9 @@
   "slogan": "Haunting San Diego Like A Boss.",
   "eventImage": "https://thebiggaypicnic.com/wp-content/uploads/2026/09/october2026.jpg",
   "eventImagePosition": "center 35%",
-  "cancelled": false,
-  "cancelTitle": "Picnic Cancelled",
-  "cancelReason": "Please check back for updates.",
+  "cancelled": true,
+  "cancelTitle": "Picnic Moved",
+  "cancelReason": "Due to rain, we will be at the Brass Rail!",
   "sponsors": [
     {
       "name": "San Diego Event Production & Technical Services",
