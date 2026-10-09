@@ -8,6 +8,7 @@
   "eventImage": "https://thebiggaypicnic.com/wp-content/uploads/2026/09/october2026.jpg",
   "eventImagePosition": "center 35%",
   "cancelled": true,
+  "rain": true,
   "cancelTitle": "PICNIC MOVED",
   "cancelReason": "Due to rain, we will be at the Brass Rail - 3796 Fifth Ave",
   "sponsors": [
