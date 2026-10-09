@@ -15,7 +15,8 @@
       "enabled": true,
       "rain": true,
       "lightning": true,
-      "intensity": "heavy"
+      "intensity": "monsoon",
+      "intensitySettings": "light|medium|heavy|monsoon"
     }
   },  
   "sponsors": [
