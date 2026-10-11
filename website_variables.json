@@ -11,11 +11,13 @@
       "mode": "auto",
       "rain": true,
       "lightning": true,
-      "intensity": "monsoon"
+      "intensity": "monsoon",
+      "intensitySettings": "light|medium|heavy|monsoon"
     },
     "snow": {
       "mode": "on",
-      "intensity": "heavy",
+      "intensity": "blizzard",
+      "intensitySettings": "light|medium|heavy|blizzard",
       "accumulation": true,
       "accumulation_seconds": 15,
       "logo": true,
