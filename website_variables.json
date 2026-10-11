@@ -13,7 +13,14 @@
       "lightning": true,
       "intensity": "monsoon",
       "intensitySettings": "light|medium|heavy|monsoon"
-    }
+    },
+      "snow": {
+        "mode": "on",
+        "intensity": "heavy",
+        "accumulation": true,
+        "accumulation_seconds": 60
+      }
+}
   },  
   "sponsors": [
     {
