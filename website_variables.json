@@ -17,7 +17,7 @@
       "mode": "on",
       "intensity": "heavy",
       "accumulation": true,
-      "accumulation_seconds": 65,
+      "accumulation_seconds": 15,
       "logo": true,
       "surfaces": true,
       "ground": true
