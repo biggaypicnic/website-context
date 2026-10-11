@@ -8,19 +8,21 @@
   "cancelReason": "Due to rain, we will be at the Brass Rail - 3796 Fifth Ave",
   "weather_effects": {
     "storm": {
-      "mode": "auto",
-      "rain": true,
-      "lightning": true,
-      "intensity": "monsoon",
-      "intensitySettings": "light|medium|heavy|monsoon"
+        "mode": "auto",
+        "rain": true,
+        "lightning": true,
+        "intensity": "monsoon"
     },
-      "snow": {
+    "snow": {
         "mode": "on",
         "intensity": "heavy",
         "accumulation": true,
-        "accumulation_seconds": 60
-      }
-  },  
+        "accumulation_seconds": 65,
+        "logo": true,
+        "surfaces": true,
+        "ground": true
+    }
+  },
   "sponsors": [
     {
       "name": "San Diego Event Production & Technical Services",
