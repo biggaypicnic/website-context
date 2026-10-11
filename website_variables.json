@@ -8,19 +8,19 @@
   "cancelReason": "Due to rain, we will be at the Brass Rail - 3796 Fifth Ave",
   "weather_effects": {
     "storm": {
-        "mode": "auto",
-        "rain": true,
-        "lightning": true,
-        "intensity": "monsoon"
+      "mode": "auto",
+      "rain": true,
+      "lightning": true,
+      "intensity": "monsoon"
     },
     "snow": {
-        "mode": "on",
-        "intensity": "heavy",
-        "accumulation": true,
-        "accumulation_seconds": 65,
-        "logo": true,
-        "surfaces": true,
-        "ground": true
+      "mode": "on",
+      "intensity": "heavy",
+      "accumulation": true,
+      "accumulation_seconds": 65,
+      "logo": true,
+      "surfaces": true,
+      "ground": true
     }
   },
   "sponsors": [
