@@ -1,9 +1,9 @@
 {
-  "date": "October 11",
-  "slogan": "Haunting San Diego Like A Boss.",
-  "eventImage": "https://thebiggaypicnic.com/wp-content/uploads/2026/09/october2026.jpg",
+  "date": "November 8",
+  "slogan": "Giving thanks for each other.",
+  "eventImage": "https://thebiggaypicnic.com/wp-content/uploads/2026/10/november2026.jpg",
   "eventImagePosition": "center 35%",
-  "cancelled": true,
+  "cancelled": false,
   "cancelTitle": "PICNIC MOVED",
   "cancelReason": "Due to rain, we will be at the Brass Rail - 3796 Fifth Ave",
   "weather_effects": {
