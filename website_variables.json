@@ -15,7 +15,7 @@
       "intensitySettings": "light|medium|heavy|monsoon"
     },
     "snow": {
-      "mode": "on",
+      "mode": "off",
       "intensity": "blizzard",
       "intensitySettings": "light|medium|heavy|blizzard",
       "accumulation": true,
