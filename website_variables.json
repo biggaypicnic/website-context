@@ -31,7 +31,7 @@
       "modeSettings": "on|off",
       "intensity": "gentle",
       "intensitySettings": "gentle|normal|brisk",
-      "size": "large",
+      "size": "40",
       "sizeSettings": "small|medium|large",
       "density": "light",
       "densitySettings": "light|medium|heavy",
