@@ -37,7 +37,7 @@
       "densitySettings": "light|medium|heavy",
       "wind": "breeze",
       "windSettings": "still|breeze|windy",
-      "layer": "foreground",
+      "layer": "background",
       "layerSettings": "background|foreground",
       "image": "original",
       "imageSettings": "original|custom|<url>",
