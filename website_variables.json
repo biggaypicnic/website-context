@@ -29,7 +29,7 @@
     "falling_leaves": {
       "mode": "on",
       "modeSettings": "on|off",
-      "intensity": "gentle",
+      "intensity": "normal",
       "intensitySettings": "gentle|normal|brisk",
       "size": "40",
       "sizeSettings": "small|medium|large",
