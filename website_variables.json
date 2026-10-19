@@ -40,7 +40,8 @@
       "layer": "foreground",
       "layerSettings": "background|foreground",
       "image": "original",
-      "imageSettings": "original|custom|<url>"
+      "imageSettings": "original|custom|<url>",
+      "colorize": true
     }
   },
   "sponsors": [
