@@ -9,6 +9,7 @@
   "weather_effects": {
     "storm": {
       "mode": "auto",
+      "modeSettings": "on|off|auto",
       "rain": true,
       "lightning": true,
       "intensity": "monsoon",
@@ -16,6 +17,7 @@
     },
     "snow": {
       "mode": "off",
+      "modeSettings": "on|off",
       "intensity": "blizzard",
       "intensitySettings": "light|medium|heavy|blizzard",
       "accumulation": true,
@@ -23,6 +25,20 @@
       "logo": true,
       "surfaces": true,
       "ground": true
+    },
+    "falling_leaves": {
+      "mode": "on",
+      "modeSettings": "on|off",
+      "intensity": "gentle",
+      "intensitySettings": "gentle|normal|brisk",
+      "size": "large",
+      "sizeSettings": "small|medium|large",
+      "density": "light",
+      "densitySettings": "light|medium|heavy",
+      "wind": "breeze",
+      "windSettings": "still|breeze|windy",
+      "layer": "background",
+      "layerSettings": "background|foreground"
     }
   },
   "sponsors": [
