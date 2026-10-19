@@ -37,9 +37,22 @@
       "densitySettings": "light|medium|heavy",
       "wind": "breeze",
       "windSettings": "still|breeze|windy",
-      "layer": "background",
-      "layerSettings": "background|foreground"
+      "layer": "foreground",
+      "layerSettings": "background|foreground",
+      "image": "original",
+      "imageSettings": "original|custom|<url>"
     }
+    
+"falling_leaves": {
+  "mode": "on",
+  "density": "light",
+  "size": 60,
+  "intensity": "gentle",
+  "wind": "breeze",
+  "layer": "foreground",
+  "image": "original"
+}
+
   },
   "sponsors": [
     {
