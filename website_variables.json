@@ -42,17 +42,6 @@
       "image": "original",
       "imageSettings": "original|custom|<url>"
     }
-    
-"falling_leaves": {
-  "mode": "on",
-  "density": "light",
-  "size": 60,
-  "intensity": "gentle",
-  "wind": "breeze",
-  "layer": "foreground",
-  "image": "original"
-}
-
   },
   "sponsors": [
     {
